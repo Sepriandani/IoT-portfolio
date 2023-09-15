@@ -1,0 +1,9 @@
+[submodule "hipostarine"]
+	path = hipostarine
+	url = https://github.com/Sepriandani/hipostarine.git
+[submodule "siasat"]
+	path = siasat
+	url = https://github.com/Sepriandani/siasat.git
+[submodule "mofec"]
+	path = mofec
+	url = https://github.com/Sepriandani/mofec.git
